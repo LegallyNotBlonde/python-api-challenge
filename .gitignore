@@ -1,0 +1,9 @@
+# Adding config.py file
+
+
+# Ignore the .env file
+.env
+
+# Ignore the api_key file
+api_keys.py
+
